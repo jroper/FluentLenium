@@ -26,9 +26,9 @@
     <url>https://github.com/FluentLenium/FluentLenium</url>
 
     <scm>
-        <url>https://github.com/MathildeLemee/FluentLenium</url>
-        <connection>scm:git:git@github.com:FluentLenium/FluentLenium.git</connection>
-        <developerConnection>scm:git:git@github.com:FluentLenium/FluentLenium.git</developerConnection>
+        <url>https://github.com/jroper/FluentLenium</url>
+        <connection>scm:git:git@github.com:jroper/FluentLenium.git</connection>
+        <developerConnection>scm:git:git@github.com:jroper/FluentLenium.git</developerConnection>
     </scm>
 
     <licenses>
